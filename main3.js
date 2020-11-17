@@ -9,7 +9,7 @@ var cindex = -1;
 var alowMouse = true;
 
 function preload() {
-  img = loadImage('../img/dedoBottom1160x348.jpg');
+  img = loadImage('/img/dedoBottom1160x348.jpg');
   myFont = loadFont('Raleway-Regular.ttf');
 }
 
