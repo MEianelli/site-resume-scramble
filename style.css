@@ -16,7 +16,7 @@ body {
   justify-content: center;
   background-color: #333;
   font-family: 'Raleway', sans-serif;
-  background-image: url('/img/bg.jpg');
+  background-image: url('img/bg.jpg');
   background-size: auto;
 }
 #titlecontent {
@@ -24,7 +24,7 @@ body {
   height: 315px;
   margin: auto;
   position: absolute;
-  background-image: url('/img/dedo1280x315.jpeg');
+  background-image: url('img/dedo1280x315.jpeg');
   background-size: auto;
   border: 1px solid #fff;
 }
